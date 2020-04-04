@@ -1,3 +1,19 @@
 body{
   background-color: purple;
 }
+.lok{
+	background: skyblue;
+   width: 500px;
+   height: 500px;
+}
+.lak{
+	background: #fff;
+	width: 100px;
+	height: 100px;
+	margin: 30px;
+	display: inline-block;
+	box-sizing: border-box;
+	border: 2px solid orange;
+	text-align: center;
+
+}
